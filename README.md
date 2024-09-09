@@ -4,7 +4,7 @@
 **2. Business Question(s)**
 <img width="1025" alt="image" src="https://github.com/CindyJeon/Customer-Churn-Python-Classification/assets/157195682/a36539e6-b713-421a-8707-5c76fb92458d">
 
-**3. Data (Exploratory Data Analysis) **
+**3. Data (Exploratory Data Analysis)**
 <img width="1025" alt="image" src="https://github.com/CindyJeon/Customer-Churn-Python-Classification/assets/157195682/977363e7-63a7-4c52-b2ab-d859cfb26d3b">
 
 **4. Insights (Predictive Analytics)**
