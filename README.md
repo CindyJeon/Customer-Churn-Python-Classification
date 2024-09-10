@@ -7,12 +7,12 @@
 **3. Data (Exploratory Data Analysis)**
 <img width="1025" alt="image" src="https://github.com/CindyJeon/Customer-Churn-Python-Classification/assets/157195682/977363e7-63a7-4c52-b2ab-d859cfb26d3b">
 
-**4. Insights (Predictive Analytics)**
+**4. Different Models**
 <img width="1011" alt="image" src="https://github.com/user-attachments/assets/0ed5965d-8ea4-429d-bd8a-903804628a73">
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/abf8a563-6c11-4a71-b327-40166eaea271">
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/b8ad6d14-a715-4f01-be63-73ba2a7cc416">
 
-**5. Insights (Predictive Analytics)**
+**5. Insights in Total (Predictive Analytics)**
   <img width="1031" alt="image" src="https://github.com/CindyJeon/Customer-Churn-Python-Classification/assets/157195682/484579cc-a2f2-481a-a253-abbd685e57a7">
 
 **6. Business Action**
